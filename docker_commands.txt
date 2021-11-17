@@ -1,0 +1,1 @@
+sudo docker run -it -v /home/bustomonikka/Desktop/deep_learning:/deep_learning -p 8888:8888 dl_env python /deep_learning/datasets/mnist.py
